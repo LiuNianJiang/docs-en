@@ -61,6 +61,10 @@ Individuals and organizations requiring file-sharing for public welfare purposes
 * **Eligibility Transfer:** Participants cannot transfer, lend, or sell their eligibility to third parties.
 * **Automatic Withdrawal:** Websites that become inaccessible or cease public welfare activities will be deemed to have automatically withdrawn from the initiative.
 
+**Optional Support:**
+
+* If you wish to contribute to our public welfare efforts, you may add our direct-link advertisement to your website. This advertisement functions as a click-through link and does not display any ad content on your site. Of course, this is optional and solely for supporting the initiative—feel free to ignore this option if you prefer no ads.
+
 
 
 ## **Finally**
