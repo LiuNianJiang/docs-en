@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Service Descriptions](service-descriptions.md)
+* [The Huang1111 Public Welfare Initiative](the-huang1111-public-welfare-initiative.md)
 
 ## huang1111 self-build space
 
